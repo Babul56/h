@@ -12101,10 +12101,14 @@ pre .code {
 }
 .social-custom a{
   color: #fff;
-  padding: 5px;
-  font-size: 24px;
+  padding: 7px;
+  font-size: 26px;
+
 }
 .social-custom a:hover{
   color: #d2cee5;
 }
-
+.cus-btn{
+  display: block;
+  margin: auto;
+}
