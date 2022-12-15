@@ -12098,6 +12098,7 @@ pre .code {
 }
 .social-custom{
   margin-top: 16px;
+  text-align: center;
 }
 .social-custom a{
   color: #fff;
@@ -12112,3 +12113,4 @@ pre .code {
   display: block;
   margin: auto;
 }
+
