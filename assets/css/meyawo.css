@@ -11503,7 +11503,7 @@ pre .code {
 .custom-navbar .logo {
   font-size: calc(30px + (30 - 20) * ((100vw - 300px) / (1300 - 300)));
   text-decoration: none;
-  color: #black;
+  color: #000;
 }
 
 .custom-navbar .container {
